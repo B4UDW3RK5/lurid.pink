@@ -1,2 +1,11 @@
-# lurid.pink
-Internet presence for a friend.
+<pre>
+     ▄▄                    ▄▄   ▄▄▄         ▄▀▀▀▀▀▄ ▄▀▀▄          ▄▀▀▄
+    █  █                  █  █ █   ▀▄      █       █▀▄▄▀          █  █▄▀▀▄
+    █  █  ▄▄       ▄▄▀▀▄▄ ▄▀▀▄ ▄█▄   █    █         █  █▄▀▀▄▄▀▀▀▄ █  ▀  ▄▀
+    █  ▀▄█  █▄▀▀▄▄▀      ██  █▀       █   █        █▀  ██        ██     ▀▀▄
+    █   █       ▀█   ▄▀▀▀█   █       ▄▀▄▀▀▄█   ▄▄▄▀█  ▄▀█    █    ██  ▄    █
+     █  █▄      ▄▀▄  ▀▄  █  █▀▄▄   ▄▄▀ ▀▄▄▀ ▀▄▄▄▀  ▀▄▄▀  █  █▀▀▄▄▀ ▀▄▄▀▀▄▄▀
+      ▀▀  ▀▀▀▀▀▀  ▀▄▄▄▀   ▀▀    ▀▀▀                       ▀▀
+
+  <a href="https://lurid.pink">iKU</a> is a visual artist from Adelaide, Australia. i do their Internet shit.
+</pre>
