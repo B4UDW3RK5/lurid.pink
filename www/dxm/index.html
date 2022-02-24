@@ -6,11 +6,11 @@
       <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.0.0/dist/mindar-image-aframe.prod.js"></script>
    </head>
    <body>
-      <a-scene mindar-image="imageTargetSrc: ./targets.mind;" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
-         <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+      <a-scene mindar-image="imageTargetSrc: ./targets.mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
          <a-assets>
             <img id="geisha" src="https://lurid.pink/dxm/iku-geisha.gif" />
          </a-assets>
+         <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
          <a-entity mindar-image-target="targetIndex: 0">
             <a-plane src="#geisha" position="0 0 0" height="1" width="1" rotation="0 0 0"></a-plane>
          </a-entity>
